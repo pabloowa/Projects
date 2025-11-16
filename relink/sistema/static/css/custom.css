@@ -1,0 +1,5 @@
+/* Oculta a seção de Ações Recentes na página inicial */
+#recent-actions-module {
+    display: none !important;
+}
+
